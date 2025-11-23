@@ -78,7 +78,6 @@ Led 4-person team developing hospital management platform with integrated ML-bas
 
 - Recommender systems using collaborative filtering, content-based filtering and deep learning
 - Advanced Spring Boot patterns and microservices
-- Cloud-native development and containerization
 - System design and distributed architectures
 - Caching, monitoring, resilience and deployement in AWS
 - Building deadlock-free concurrent systems
