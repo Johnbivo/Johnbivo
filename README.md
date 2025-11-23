@@ -8,7 +8,7 @@ I'm a final year Computer Science student at the University of Derby with a BA i
 
 ## 🔭 What I'm Working On
 
-- 🎓 **Dissertation:** Building a recommender system for my final year project
+- 🎓 **Dissertation:** Design and implementation of a Movie Recommendation System using Content-Based and Collaborative Filtering
 - Building secure backend applications with production-ready features
 - Integrating AI/ML models (classifiers, recommender systems)
 - Exploring distributed systems and microservices patterns
