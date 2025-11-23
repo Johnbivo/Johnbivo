@@ -101,13 +101,6 @@ Created architectural renders while collaborating with engineers and architects 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioannis-bivolaris)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnbivo3@gmail.com)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
 ---
 
 💡 **Open to opportunities in Backend Development & ML Engineering** | Seeking graduate roles starting 2025  
-🎯 Passionate about building secure, scalable systems and integrating AI into production applications
