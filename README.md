@@ -28,6 +28,11 @@ I'm a final year Computer Science student at the University of Derby with a BA i
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
 
+### Testing
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logo=mockito&logoColor=black)
+![Rest-Assured](https://img.shields.io/badge/REST_Assured-109d59?style=for-the-badge&logo=testing-library&logoColor=white)
+
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -74,7 +79,7 @@ Led 4-person team developing hospital management platform with integrated ML-bas
 - Advanced Spring Boot patterns and microservices
 - Cloud-native development and containerization
 - System design and distributed architectures
-- Caching, monitoring, resilience and deployement (AWS)
+- Caching, monitoring, resilience and deployement in AWS
 - Building deadlock-free concurrent systems
 
 ## 💼 Professional Experience
