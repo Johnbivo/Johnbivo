@@ -1,6 +1,6 @@
 # Hi there, I'm Ioannis Bivolaris 👋
 
-### Backend Developer & AI Enthusiast | Final Year Computer Science Student
+### Backend Developer with Machine Learning Expertise | Final Year Computer Science Student
 
 I'm a final year Computer Science student at the University of Derby with a BA in Animation & Interactive Media from Middlesex University. I focus on building secure backend systems, designing, building and integrating machine learning solutions into real-world applications.
 
