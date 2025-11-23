@@ -55,13 +55,13 @@ Final year dissertation project developing a recommendation system exploring col
 - **Tech:** Python, Scikit-learn, Surprise, Pandas, NumPy, MatplotLib, Seaborn
 - **Focus:** Design amd implmentation of recommender models, evaluation metrics, accuracy comparison, increase accuracy and performance
 
-### 🏥 Medical Office Management System (Production - Freelance)
+### Medical Office Management System (Production - Freelance)
 Production appointment scheduling system currently serving an active medical practice. Features patient management, doctor availability tracking, and real-time appointment booking with conflict detection.
 - **Tech:** Spring Boot, Spring Security, PostgreSQL, Docker, JavaScript, Chart.js
 - **Security:** JWT authentication, role-based access control
 - **Deployed:** Containerized production environment
 
-### 🤖 IntelliMed Express - AI-Powered Hospital Management
+### IntelliMed Express - AI-Powered Hospital Management
 Led 4-person team developing hospital management platform with integrated ML-based pneumonia detection using chest X-ray analysis. Handles multi-department coordination, patient records, and pharmacy inventory.
 - **Responsibilities:** Project coordination, software architecture, frontend and machine learning development
 - **Tech:** Spring Boot, PostgreSQL, Python PyTorch, JavaFX
