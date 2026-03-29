@@ -103,4 +103,4 @@ Created architectural renders while collaborating with engineers and architects 
 
 ---
 
-💡 **Open to opportunities in Backend Development, Fullstack Development & ML Engineering** | Seeking graduate roles starting 2026  
+ **Open to opportunities in Backend Development, Fullstack Development & ML Engineering** | Seeking graduate roles starting 2026  
