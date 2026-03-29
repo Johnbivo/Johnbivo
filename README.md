@@ -4,7 +4,7 @@
 
 I'm a final year Computer Science student at the University of Derby with a BA in Animation & Interactive Media from Middlesex University. I focus on building secure backend systems, designing, building and integrating machine learning solutions into real-world applications.
 
-🌐 **Portfolio:** [bivolaris.com](https://bivolaris.com)
+ **Portfolio:** [bivolaris.com](https://bivolaris.com)
 
 ## What I'm Working On
 
@@ -54,9 +54,9 @@ I'm a final year Computer Science student at the University of Derby with a BA i
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🎯 Recommender System (Dissertation - In Progress)
+### Recommender System (Dissertation - In Progress)
 Final year dissertation project developing a recommendation system exploring collaborative filtering, content-based filtering, and hybrid approaches for personalized recommendations.
 - **Tech:** Python, Scikit-learn, Surprise, Pandas, NumPy, MatplotLib, Seaborn
 - **Focus:** Design amd implmentation of recommender models, evaluation metrics, accuracy comparison, increase accuracy and performance
