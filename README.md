@@ -1,4 +1,4 @@
-# Hi there, I'm Ioannis Bivolaris 👋
+# Hi there, I'm Ioannis Bivolaris 
 
 ### Backend Developer with Machine Learning Expertise | Final Year Computer Science Student
 
@@ -6,15 +6,15 @@ I'm a final year Computer Science student at the University of Derby with a BA i
 
 🌐 **Portfolio:** [bivolaris.com](https://bivolaris.com)
 
-## 🔭 What I'm Working On
+## What I'm Working On
 
-- 🎓 **Dissertation:** Design and implementation of a Movie Recommendation System using Content-Based and Collaborative Filtering
+-  **Dissertation:** Design and implementation of a Movie Recommendation System using Content-Based and Collaborative Filtering
 - Building secure backend applications with production-ready features
 - Integrating AI/ML models (classifiers, recommender systems)
 - Exploring distributed systems and microservices patterns
 
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -74,7 +74,7 @@ Led 4-person team developing hospital management platform with integrated ML-bas
 - **Role:** Project Manager & Fullstack Developer
 
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Recommender systems using collaborative filtering, content-based filtering and deep learning
 - Advanced Spring Boot patterns and microservices
@@ -82,7 +82,7 @@ Led 4-person team developing hospital management platform with integrated ML-bas
 - Caching, monitoring, resilience and deployement in AWS
 - Building deadlock-free concurrent systems
 
-## 💼 Professional Experience
+##  Professional Experience
 
 **Freelance Software Engineer** (June 2025 - August 2025)  
 Developed production appointment scheduling system for medical practice with conflict detection, email notifications and shift scheduling.
@@ -90,12 +90,12 @@ Developed production appointment scheduling system for medical practice with con
 **3D Visualizer/Designer @ GLC & Partners** (June 2024 - September 2024)  
 Created architectural renders while collaborating with engineers and architects following client requirements.
 
-## 🎓 Education
+## Education
 
 **B.S. Computer Science** - University of Derby (2023 - Present)  
 **B.A. Animation & Interactive Media** - Middlesex University (2019 - 2022)
 
-## 📫 Let's Connect
+##  Let's Connect
 
 [![Website](https://img.shields.io/badge/Website-bivolaris.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bivolaris.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioannis-bivolaris)
