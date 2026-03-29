@@ -86,7 +86,7 @@ Led 4-person team developing hospital management platform with integrated ML-bas
 
 ##  Professional Experience
 
-- **Software Enginnering Internship** (March 2026 - May -2026) Cyraco GmbH
+- **Software Enginnering Internship @ Cyraco GmbH** (March 2026 - May -2026) 
 
 - **Freelance Software Engineer** (June 2025 - August 2025)  
 Developed production appointment scheduling system for medical practice with conflict detection, email notifications and shift scheduling.
