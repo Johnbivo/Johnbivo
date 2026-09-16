@@ -6,6 +6,23 @@ I'm a final year Computer Science student at the University of Derby with a BA i
 
  **Portfolio:** [bivolaris.com](https://bivolaris.com)
 
+##  Professional Experience
+
+- **Software engineer @ Cyraco GmbH** (June 2026 - Present)
+
+- **Software Enginnering Internship @ Cyraco GmbH** (March 2026 - May -2026) 
+
+- **Freelance Software Engineer** (June 2025 - August 2025)  
+Developed production appointment scheduling system for medical practice with conflict detection, email notifications and shift scheduling.
+
+- **3D Visualizer/Designer @ GLC & Partners** (June 2024 - September 2024)  
+Created architectural renders while collaborating with engineers and architects following client requirements.
+
+## Education
+
+**B.S. Computer Science** - University of Derby (2023 - 2026)  
+**B.A. Animation & Interactive Media** - Middlesex University (2019 - 2022)
+
 ## Technical Stack
 
 ### Languages
@@ -71,22 +88,7 @@ Led 4-person team developing hospital management platform with integrated ML-bas
 - **Role:** Project Manager & Fullstack Developer
   
 
-##  Professional Experience
 
-- **Software engineer @ Cyraco GmbH** (June 2026 - Present)
-
-- **Software Enginnering Internship @ Cyraco GmbH** (March 2026 - May -2026) 
-
-- **Freelance Software Engineer** (June 2025 - August 2025)  
-Developed production appointment scheduling system for medical practice with conflict detection, email notifications and shift scheduling.
-
-- **3D Visualizer/Designer @ GLC & Partners** (June 2024 - September 2024)  
-Created architectural renders while collaborating with engineers and architects following client requirements.
-
-## Education
-
-**B.S. Computer Science** - University of Derby (2023 - 2026)  
-**B.A. Animation & Interactive Media** - Middlesex University (2019 - 2022)
 
 ##  Let's Connect
 
