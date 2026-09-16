@@ -43,6 +43,8 @@ I'm a final year Computer Science student at the University of Derby with a BA i
 ### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Transformers-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-0052CC?style=for-the-badge&logo=knowledgebase&logoColor=white)
 
 ### DevOps & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
