@@ -6,14 +6,6 @@ I'm a final year Computer Science student at the University of Derby with a BA i
 
  **Portfolio:** [bivolaris.com](https://bivolaris.com)
 
-## What I'm Working On
-
--  **Dissertation:** Design and implementation of a Movie Recommendation System using Content-Based and Collaborative Filtering
-- Building secure backend applications with production-ready features
-- Integrating AI/ML models (classifiers, recommender systems)
-- Exploring distributed systems and microservices patterns
-
-
 ## Technical Stack
 
 ### Languages
