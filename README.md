@@ -59,9 +59,9 @@ I'm a final year Computer Science student at the University of Derby with a BA i
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 
-##  Featured Projects
+##  Featured Projects (School and Freelance)
 
-### Recommender System (Dissertation - In Progress)
+### Recommender System (Dissertation)
 Final year dissertation project developing a recommendation system exploring collaborative filtering, content-based filtering, and hybrid approaches for personalized recommendations.
 - **Tech:** Python, Scikit-learn, Surprise, Pandas, NumPy, MatplotLib, Seaborn
 - **Focus:** Design amd implmentation of recommender models, evaluation metrics, accuracy comparison, increase accuracy and performance
@@ -77,17 +77,11 @@ Led 4-person team developing hospital management platform with integrated ML-bas
 - **Responsibilities:** Project coordination, software architecture, frontend and machine learning development
 - **Tech:** Spring Boot, PostgreSQL, Python PyTorch, JavaFX
 - **Role:** Project Manager & Fullstack Developer
-
-
-##  Currently Learning
-
-- Recommender systems using collaborative filtering, content-based filtering and deep learning
-- Advanced Spring Boot patterns and microservices
-- System design and distributed architectures
-- Caching, monitoring, resilience and deployement in AWS
-- Building deadlock-free concurrent systems
+  
 
 ##  Professional Experience
+
+- **Software engineer @ Cyraco GmbH** (June 2026 - Present)
 
 - **Software Enginnering Internship @ Cyraco GmbH** (March 2026 - May -2026) 
 
@@ -99,14 +93,14 @@ Created architectural renders while collaborating with engineers and architects 
 
 ## Education
 
-**B.S. Computer Science** - University of Derby (2023 - Present)  
+**B.S. Computer Science** - University of Derby (2023 - 2026)  
 **B.A. Animation & Interactive Media** - Middlesex University (2019 - 2022)
 
 ##  Let's Connect
 
 [![Website](https://img.shields.io/badge/Website-bivolaris.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bivolaris.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioannis-bivolaris)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnbivo3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ioannis@bivolaris.com)
 
 ---
 
